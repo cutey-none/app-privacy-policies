@@ -7,6 +7,7 @@
 | 应用 | 隐私政策 | 源文件 |
 | --- | --- | --- |
 | 息刻（BreathTick） | https://cutey-none.github.io/app-privacy-policies/breathtick/ | [breathtick/index.html](breathtick/index.html) |
+| 腕上Pose（WatchPose） | https://cutey-none.github.io/app-privacy-policies/watchpose/ | [watchpose/index.html](watchpose/index.html) |
 
 ## 添加或更新政策
 
